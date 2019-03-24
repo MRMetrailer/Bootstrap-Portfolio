@@ -1,0 +1,38 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: #666666;
+    border-top: 8px solid;
+    border-top-color: #4aaaa5;
+    width: 100%;
+}
+
+.card {
+    margin: 12px;
+    float: left;
+}
+
+h1 {
+    color: #4aaaa5;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-bottom: 3px solid;
+    border-bottom-color: #dddddd;
+}
+
+img {
+    margin-right: 20px;
+}
+
+.btn-primary {
+    background-color: #4aaaa5;
+    border-color: #4aaaa5;
+}
+
+.navbar-brand {
+    font-size: 2.5rem;
+}
+
+.spacer {
+    margin-bottom: 80px;
+}
